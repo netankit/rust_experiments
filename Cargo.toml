@@ -1,0 +1,6 @@
+[package]
+name = "rust_experiments"
+version = "0.1.0"
+authors = ["Ankit Bahuguna <ankit@cliqz.com>"]
+
+[dependencies]
